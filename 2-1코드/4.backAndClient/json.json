@@ -1,0 +1,16 @@
+{
+    "myName": "dahan",
+    "age": 34,    
+    "isRich": false,
+    "hobbies": [
+        {
+        "name": "Soccer",
+        "level": "not bad"
+        },
+        {
+        "name": "Base Ball",
+        "level":"horrible"
+        
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ORDER_LIST>
+  <HEADER>
+    <SEND_AUTH_KEY>auth_key</SEND_AUTH_KEY>
+    <SEND_DATE>20201228</SEND_DATE>
+  </HEADER>
+  <DATA>
+    <ORD_ST_DATE>20201228</ORD_ST_DATE>
+    <ORD_ED_DATE>20201228</ORD_ED_DATE>
+    <ORD_FIELD>idx</ORD_FIELD>
+    <LANG>UTF-8</LANG>
+  </DATA>
+</ORDER_LIST>
