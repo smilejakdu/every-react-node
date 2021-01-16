@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/1-2코드/exmaple" beforeDir="false" afterPath="$PROJECT_DIR$/1-2코드/exmaple" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1-2코드/exmaple/sample1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-2코드/exmaple/sample1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1-2코드/exmaple/sampleServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/1-2코드/exmaple/sampleServer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-1코드/1.http/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/2-1코드/1.http/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/1-2코드/exmaple" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mp37H6r6mpyQEj99o3QQXSbnrg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,6 +30,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/3-1코드" />
+      <recent name="$PROJECT_DIR$/2-2코드" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +46,7 @@
       <updated>1610176537263</updated>
       <workItem from="1610176538880" duration="7029000" />
       <workItem from="1610787228151" duration="6084000" />
-      <workItem from="1610813005507" duration="906000" />
+      <workItem from="1610813005507" duration="2900000" />
     </task>
     <servers />
   </component>
